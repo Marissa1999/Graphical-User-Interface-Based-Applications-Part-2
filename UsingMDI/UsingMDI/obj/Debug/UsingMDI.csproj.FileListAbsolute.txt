@@ -1,0 +1,29 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_43_44\UsingMDI\UsingMDI\bin\Debug\UsingMDI.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_43_44\UsingMDI\UsingMDI\bin\Debug\UsingMDI.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_43_44\UsingMDI\UsingMDI\obj\Debug\UsingMDI.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_43_44\UsingMDI\UsingMDI\obj\Debug\UsingMDI.ChildForm.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_43_44\UsingMDI\UsingMDI\obj\Debug\UsingMDI.UsingMDIForm.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_43_44\UsingMDI\UsingMDI\obj\Debug\UsingMDI.Properties.Resources.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_43_44\UsingMDI\UsingMDI\obj\Debug\UsingMDI.csproj.GenerateResource.Cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_43_44\UsingMDI\UsingMDI\obj\Debug\UsingMDI.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_43_44\UsingMDI\UsingMDI\obj\Debug\UsingMDI.pdb
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\bin\Debug\UsingMDI.exe
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\bin\Debug\UsingMDI.pdb
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\obj\Debug\UsingMDI.csprojAssemblyReference.cache
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\obj\Debug\UsingMDI.ChildForm.resources
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\obj\Debug\UsingMDI.UsingMDIForm.resources
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\obj\Debug\UsingMDI.Properties.Resources.resources
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\obj\Debug\UsingMDI.csproj.GenerateResource.cache
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\obj\Debug\UsingMDI.csproj.CoreCompileInputs.cache
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\obj\Debug\UsingMDI.exe
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\obj\Debug\UsingMDI.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\bin\Debug\UsingMDI.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\bin\Debug\UsingMDI.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\obj\Debug\UsingMDI.csprojAssemblyReference.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\obj\Debug\UsingMDI.ChildForm.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\obj\Debug\UsingMDI.UsingMDIForm.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\obj\Debug\UsingMDI.Properties.Resources.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\obj\Debug\UsingMDI.csproj.GenerateResource.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\obj\Debug\UsingMDI.csproj.CoreCompileInputs.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\obj\Debug\UsingMDI.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\UsingMDI\UsingMDI\obj\Debug\UsingMDI.pdb

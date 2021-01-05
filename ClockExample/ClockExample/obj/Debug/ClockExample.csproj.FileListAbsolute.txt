@@ -1,0 +1,38 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_50\ClockExample\ClockExample\bin\Debug\ClockExample.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_50\ClockExample\ClockExample\bin\Debug\ClockExample.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_50\ClockExample\ClockExample\obj\Debug\ClockExample.Clock.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_50\ClockExample\ClockExample\obj\Debug\ClockExample.ClockUserControl.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_50\ClockExample\ClockExample\obj\Debug\ClockExample.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_50\ClockExample\ClockExample\obj\Debug\ClockExample.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_50\ClockExample\ClockExample\obj\Debug\ClockExample.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_50\ClockExample\ClockExample\obj\Debug\ClockExample.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_50\ClockExample\ClockExample\obj\Debug\ClockExample.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_50\ClockExample\ClockExample\obj\Debug\ClockExample.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_50\ClockExample\ClockExample\obj\Debug\ClockExample.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_50\ClockExample\ClockExample\bin\Debug\ClockExample.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_50\ClockExample\ClockExample\bin\Debug\ClockExample.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_50\ClockExample\ClockExample\obj\Debug\ClockExample.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_50\ClockExample\ClockExample\obj\Debug\ClockExample.Clock.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_50\ClockExample\ClockExample\obj\Debug\ClockExample.ClockUserControl.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_50\ClockExample\ClockExample\obj\Debug\ClockExample.Properties.Resources.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_50\ClockExample\ClockExample\obj\Debug\ClockExample.csproj.GenerateResource.Cache
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\bin\Debug\ClockExample.exe
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\bin\Debug\ClockExample.pdb
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\obj\Debug\ClockExample.csprojAssemblyReference.cache
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\obj\Debug\ClockExample.Clock.resources
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\obj\Debug\ClockExample.ClockUserControl.resources
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\obj\Debug\ClockExample.Properties.Resources.resources
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\obj\Debug\ClockExample.csproj.GenerateResource.cache
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\obj\Debug\ClockExample.csproj.CoreCompileInputs.cache
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\obj\Debug\ClockExample.exe
+D:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\obj\Debug\ClockExample.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\bin\Debug\ClockExample.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\bin\Debug\ClockExample.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\obj\Debug\ClockExample.csprojAssemblyReference.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\obj\Debug\ClockExample.Clock.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\obj\Debug\ClockExample.ClockUserControl.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\obj\Debug\ClockExample.Properties.Resources.resources
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\obj\Debug\ClockExample.csproj.GenerateResource.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\obj\Debug\ClockExample.csproj.CoreCompileInputs.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\obj\Debug\ClockExample.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab03\ClockExample\ClockExample\obj\Debug\ClockExample.pdb
